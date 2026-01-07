@@ -1,0 +1,3 @@
+Sai Rishit Sunku
+Python and Java
+In this lesson we have learnt how to create a repo and various other git commands
